@@ -5,7 +5,7 @@ Create HUGO Pages From Trello Cards
 1. Reads trello cards from a list you define on a board you define.
 2. Pulls data from the card and writes it to a .md for HUGO page builder
 3. Sends pictured related to the article to TinyPNG to be optimzed and alterted.
-4. Quicky creates ready to deploy images and .md files for your website.
+4. Quicky creates ready to deploy images and .md files for your HUGO website.
 
 ## Requirements
 * Trello account
