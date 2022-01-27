@@ -55,7 +55,7 @@ META Desc:
 -----------------------
 meta description that will be what google uses
 .
-Growing Tips
+Tech Artcles (Space for HUGO article Category/tags)
 ```
 
 ## Using The Image Optimization
